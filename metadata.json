@@ -1,0 +1,7 @@
+{
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "LinguaStory AI",
+  "description": "An AI-powered English learning assistant that generates leveled stories, lessons, and acts as a personal language tutor."
+}
